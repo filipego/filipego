@@ -6,7 +6,7 @@
 <h3 align="center">I’m a creative, reliable and professional Front End Developer. <br>I’m available to work in North Jersey and Manhattan.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
-
+<br><br>
 
 - 🌱 I’m currently learning **Figma**
 
