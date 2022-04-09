@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Figma**
 
-- 👨‍💻 Some of my projects are available at [https://filipevalentegomes.com](https://filipevalentegomes.com/)
+- 👨‍💻 Some of my projects are available at [filipevalentegomes.com](https://filipevalentegomes.com/)
 
 - 📫 How to reach me **filipego@gmail.com**
 
