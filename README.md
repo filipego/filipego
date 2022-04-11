@@ -8,7 +8,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Figma** and **Next.js**
 
 - 👨‍💻 Some of my projects are available at [filipevalentegomes.com](https://filipevalentegomes.com/)
 
