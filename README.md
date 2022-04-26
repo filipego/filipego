@@ -1,5 +1,5 @@
 
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://filipevalentegomes.com/)
+[![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)](https://filipevalentegomes.com/)
 
 
 <h1 align="center">Hi 👋, I'm Filipe Valente</h1>
