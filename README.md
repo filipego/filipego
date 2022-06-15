@@ -8,7 +8,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Firebase v9, Remix, Svelte**
+- 🌱 I’m currently learning **Firebase v9, Also taking a look at Svelte and Vue 3**
 
 - 👨‍💻 Some of my projects are available at [filipevalentegomes.com](https://filipevalentegomes.com/)
 
