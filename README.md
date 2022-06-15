@@ -8,7 +8,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Firebase v9, Remix, Svelte**
 
 - 👨‍💻 Some of my projects are available at [filipevalentegomes.com](https://filipevalentegomes.com/)
 
