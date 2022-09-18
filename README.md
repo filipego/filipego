@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **filipego@gmail.com**
 
-- ⚡ Fun fact **I'm a huge FC Porto fan and I'm a gamer**
+- ⚡ Fun fact **I'm a huge FC Porto fan and a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
