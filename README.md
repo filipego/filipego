@@ -11,7 +11,7 @@
 - 💼 I build **custom websites**, **admin dashboards**, and **mobile apps** from the ground up  
 - 🎨 Passionate about clean UI, strong branding, and smooth user experiences  
 - 👨‍💻 Check out my work at [filipevalentegomes.com](https://filipevalentegomes.com/)  
-- 📫 Reach me at **filipego@gmail.com**  
+- 📫 Reach me at **filipe@filipevalentegomes.com**  
 - ⚡ Fun fact: **I’m a huge FC Porto fan and a gamer**
 
 <h3 align="left">Connect with me:</h3>
