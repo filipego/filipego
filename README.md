@@ -1,7 +1,7 @@
 [![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)](https://filipevalentegomes.com/)
 
 <h1 align="center">Hi 👋, I'm Filipe Valente</h1>
-<h3 align="center">I’m a creative front-end developer and designer, building modern web apps, admin dashboards, and mobile experiences that blend clean design with smooth, scalable performance.</h3>
+<h3 align="center">I’m a creative web dev, building modern web apps, admin dashboards, and mobile experiences that blend clean design with smooth, scalable performance.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
