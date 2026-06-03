@@ -1,5 +1,3 @@
-[![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)](https://filipevalentegomes.com/)
-
 <h1 align="center">Hi 👋, I'm Filipe Valente</h1>
 <h3 align="center">I’m a creative web dev, building modern web apps, admin dashboards, and mobile experiences that blend clean design with smooth, scalable performance.</h3>
 
